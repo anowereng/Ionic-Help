@@ -2,8 +2,8 @@
 
 - adb devices
 - ionic cordova run android --target=e78ab88d
-  ( For list of all available devices, use :)
-- ionic cordova run android --list
+ 
+- ionic cordova run android --list  ( For list of all available devices, use)
 
 ### IONIC-REPAIR
 
