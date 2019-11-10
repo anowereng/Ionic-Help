@@ -1,3 +1,7 @@
+### IONIC EMULATOR
+
+- adb devices
+
 ### IONIC-REPAIR
 
  - ionic repair
