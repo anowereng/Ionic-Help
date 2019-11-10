@@ -17,3 +17,9 @@
 
 - ionic cordova run android 
 - ionic cordova build android 
+
+### IONIC - ROUTE
+```
+[routerLink]="['/', 'conveyance',data.LocationCustId]"
+
+```
