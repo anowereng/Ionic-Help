@@ -1,7 +1,9 @@
 ### IONIC EMULATOR Fake or Real Devices
 
 - adb devices
-- ionic run android --target=e78ab88d
+- ionic cordova run android --target=e78ab88d
+  ( For list of all available devices, use :)
+- ionic cordova run android --list
 
 ### IONIC-REPAIR
 
