@@ -1,6 +1,7 @@
-### IONIC EMULATOR
+### IONIC EMULATOR Fake or Real Devices
 
 - adb devices
+- ionic run android --target=e78ab88d
 
 ### IONIC-REPAIR
 
