@@ -1,4 +1,7 @@
 
+### IONIC PUBLISH
+- dotnet publish -o ..\project
+
 ### IONIC CORDOVA
 - cordova plugin list
 - cordova plugin remove <PLUGIN_NAME>
