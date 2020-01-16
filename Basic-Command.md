@@ -1,3 +1,8 @@
+
+### IONIC CORDOVA
+- cordova plugin list
+- cordova plugin remove <PLUGIN_NAME>
+
 ### IONIC EMULATOR Fake or Real Devices
 
 - adb devices
