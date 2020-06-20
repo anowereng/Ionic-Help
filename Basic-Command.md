@@ -14,6 +14,9 @@
  
 - ionic cordova run android --list  ( For list of all available devices, use)
 
+### IONIC verbose
+- ionic cordova run android --verbose
+
 ### IONIC-REPAIR
 
  - ionic repair
