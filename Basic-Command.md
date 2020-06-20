@@ -10,6 +10,7 @@
 
 - adb devices
 - ionic cordova run android --target=e78ab88d
+--ionic cordova run android --device= 192.168.0.106:5555 or emulator number
  
 - ionic cordova run android --list  ( For list of all available devices, use)
 
