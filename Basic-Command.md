@@ -20,6 +20,9 @@
  - npm -g install cordova@latest
  - cordova plugin add cordova-android-support-gradle-release
  - native-run android --sdk-info
+ 
+ ## More Information
+- native-run --list --verbose
 
 ### IONIC-LAB 
 - npm install --save-dev @ionic/lab
