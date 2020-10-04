@@ -1,10 +1,10 @@
 
 ### IONIC PUBLISH
- ( change angular.json file - dir angular dir )
+``` ( change angular.json file - dir angular dir )
  1 - "outputPath": "../SoftifyTracker_ATAL.API/wwwroot",
  ( dir core project )
 2 - dotnet publish -o ..\project
-
+```
 ### IONIC CORDOVA
 - cordova plugin list
 - cordova plugin remove <PLUGIN_NAME>
