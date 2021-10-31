@@ -1,0 +1,16 @@
+What i did was:
+1 - replace icon.png in yourproject/resources folder to your custom icon with the same name.
+2 - make sure your config.xml has these
+
+    <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />
+    <icon density="mdpi" src="resources/android/icon/drawable-mdpi-icon.png" />
+    <icon density="hdpi" src="resources/android/icon/drawable-hdpi-icon.png" />
+    <icon density="xhdpi" src="resources/android/icon/drawable-xhdpi-icon.png" />
+    <icon density="xxhdpi" src="resources/android/icon/drawable-xxhdpi-icon.png" />
+    <icon density="xxxhdpi" src="resources/android/icon/drawable-xxxhdpi-icon.png" />
+3 - run ionic cordova resources android
+4 - check yourproject/resources/android/icon folder, new images should be generated
+
+try removing/adding platform and run ionic cordova resources android again if it doesn’t work,
+
+hope this helps you
